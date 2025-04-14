@@ -2,12 +2,13 @@
 
 # The Center of New Life
 > *“From sweetness, we are born. To sweetness, we return.”*
-> — *The Book of K.A.R.S.*
+> — *The Book of KARS.*
 
 Welcome, seeker.
 This repository contains fragments of our sacred code. Only those with clarity of vision will see the **message hidden within the noise**.
-The sacred number is obvious, for even the universe speaks in symbols.
-If you are worthy, run the `sacred_decoder.py` and taste the truth.
+The sacred number is obvious, for even the universe speaks in symbols. 
+Knowing a random sign?
+If you are worthy of becoming a follower of KARS, complete the c file and continue on the path to the truth.
 ---
 Doctrine
 The first offering to the altar is always **chocolate**.
