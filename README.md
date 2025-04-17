@@ -6,7 +6,7 @@
 
 Welcome, seeker.
 This repository contains fragments of our sacred code. Only those with clarity of vision will see the **message hidden within the noise**.
-The sacred number is obvious, for even the universe speaks in symbols. 
+The sacred number is obvious, for even the universe speaks in symbols, adding and substracting that which is necessary. 
 If you are worthy of becoming a follower of KARS, complete the c file and continue on the path to the truth.
 ---
 Doctrine
